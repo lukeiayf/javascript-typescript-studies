@@ -27,7 +27,7 @@ const expl_array: Array<number> = [1, 2, 3]; //array
 
 //INTERFACES
 
-interface AdressInterface {
+interface AdressInterface { 
   adress: string;
   city: number;
 }
